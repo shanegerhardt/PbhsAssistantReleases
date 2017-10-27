@@ -1,0 +1,7 @@
+{
+  "applications": {
+    "gecko": {
+      "update_url": "https://shanegerhardt.github.io/PbhsAssistantReleases/updates.json"
+    }
+  }
+}
