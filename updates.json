@@ -3,10 +3,10 @@
         "31e67081-3a36-4690-a8e8-e134febda28b": {
         "updates": [
             { "version": "2.0.0",
-                "update_link": "https://raw.githubusercontent.com/shanegerhardt/PbhsAssistantReleases/master/releases/2.0.0/PBHSassistant.xpi"
+                "update_link": "https://raw.githubusercontent.com/shanegerhardt/PbhsAssistantReleases/master/releases/2.0.0/pbhs_assistant-2.0.0-an+fx.xpi"
             },
             { "version": "2.0.1",
-                "update_link": "https://raw.githubusercontent.com/shanegerhardt/PbhsAssistantReleases/master/releases/2.0.1/PBHSassistant.xpi"
+                "update_link": "https://raw.githubusercontent.com/shanegerhardt/PbhsAssistantReleases/master/releases/2.0.1/pbhs_assistant-2.0.1-an+fx.xpii"
             }
         ]
       }
