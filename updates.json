@@ -80,7 +80,7 @@
         },
         {
           "version": "2.4.1",
-          "update_link": "https://raw.githubusercontent.com/shanegerhardt/PbhsAssistantReleases/master/releases/2.4.1/pbhs_assistant-2.4.1-fx.xpi"
+          "update_link": "https://github.com/shanegerhardt/PbhsAssistantReleases/raw/master/releases/2.4.1/pbhs_assistant-2.4.1.xpi"
         }
       ]
     }
